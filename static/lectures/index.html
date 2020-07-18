@@ -23,6 +23,18 @@
 				\[x^2 + y^2\in \R \]
 				$x^2 + y\in\mathbb{R}\subset\del\C$
 			</section>
+			<section>
+				<h4>Video without iframe</h4>
+				<video>
+					<source data-src="https://youtu.be/embed/0YVfbClYFkU" />
+				</video>
+			</section>
+			<section>
+				<h6>Video below</h6>
+				<iframe width="560" height="315" src="https://www.youtube.com/embed/0YVfbClYFkU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			</section>
+			<section data-background-iframe="https://www.youtube.com/embed/0YVfbClYFkU"
+          data-background-interactive></section>
 			<section>Slide 2</section>
 		</div>
 	</div>
@@ -63,7 +75,11 @@
 			plugins: [RevealMath]
 		});
 	</script>
-	<section>
+	<script>
+		for (var v of document.querySelectorAll('.reveal video')) {
+			v.addEventListener('ended', function() { Reveal.next(); });
+		  }
+	</script>
 </body>
 
 </html>
