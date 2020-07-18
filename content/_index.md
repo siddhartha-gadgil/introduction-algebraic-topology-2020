@@ -1,19 +1,17 @@
 +++
-title="MA 332: Algebraic Topology"
+title="MA 232: Introduction to Algebraic Topology"
 +++
 
 ### Syllabus
 
-__Homology__ : Singular homology, excision, Mayer-Vietoris theorem, acyclic models, CW-complexes, simplicial and cellular homology, homology with coefficients.
+__The fundamental group:__ Homotopy of maps, multiplication of paths, the fundamental group, induced
+homomorphisms, the fundamental group of the circle, covering spaces, lifting theorems, the
+universal covering space, Seifert-van Kampen theorem, applications. 
 
-__Cohomology__ : Comology groups, relative cohomology, cup products, cap product, orientation on manifolds, Poincar&eacute; duality.
-
-
+__Simplicial Homology:__ Simplicial complexes, chain complexes, definitions of the simplicial homology
+groups, properties of homology groups, applications.
 
 #### Suggested books: 
 
-We will be following Hacher's book (available [online](http://pi.math.cornell.edu/~hatcher/AT/AT.pdf)).
-
-1. Hatcher, A., Algebraic Topology, Cambridge Univ. Press, 2002 (Indian edition is available).
-2. Rotman, J, An Introduction to Algebraic Topology, Graduate Texts in Mathematics, 119, Springer-Verlag, 1988.
-3. Munkres, I. R., Elements of Algebraic Topology, Addison-Wesiley, 1984.
+1. Hatcher, A., Algebraic Topology, Cambridge University Press, 2002.
+2. Armstrong, M.A., Basic Topology, Springer (India), 2004.
