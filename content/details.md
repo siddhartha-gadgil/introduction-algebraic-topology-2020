@@ -7,7 +7,10 @@ This course will be taught online, mostly through pre-recorded [lectures](./all-
 Details of the _Team_ will be posted as they become clear. There may be a _Team_ created automatically for each course with the registered students or
 I may create this manually. Those auditing should contact me, but __after__ you see updates here saying that a _Team_ has been created.
 
-Assignments will also be posted within Microsoft Teams.
+I would encourage using the Teams chat when it is set up to ask questions whenever needed. I have also set up a [gitter chat](https://gitter.im/siddhartha-gadgil/introduction-algebraic-topology-2020) channel,
+which has the advantage of TeX support and not requiring an IISc account, but needs an account in one of Twitter, Github and GitLab to sign in.
+
+Assignments will be posted here and linked in Microsoft Teams. They have to be submitted through Microsoft Teams.
 
 ##### Timings
 
