@@ -7,3 +7,5 @@ buildFuture = "true"
     code = "MA 232"
     course = "Introduction to Algebraic Topology"
     term = "October 2020"
+[markup.goldmark.renderer]
+unsafe= true
