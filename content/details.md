@@ -4,17 +4,27 @@
 * __E-mail:__ _siddhartha.gadgil@gmail.com_
 
 This course will be taught online, mostly through pre-recorded [lectures](./all-lectures/). There will also be interactive sessions on Microsoft Teams.
-Details of the _Team_ will be posted as they become clear. There may be a _Team_ created automatically for each course with the registered students or
-I may create this manually. Those auditing should contact me, but __after__ you see updates here saying that a _Team_ has been created.
 
-I would encourage using the Teams chat when it is set up to ask questions whenever needed. I have also set up a [gitter chat](https://gitter.im/siddhartha-gadgil/introduction-algebraic-topology-2020) channel,
+##### Microsoft Teams details
+
+A Team for this course (within IISc) named _Introduction to Algebraic Topology 2020-2021_ has been created. A link to join this Team will be posted on the IISc intranet (under Department of Mathematics) as soon as the intranet is ready. Please join the Team if you wish to attend interactive sessions. If you choose to leave the course after some lectures you can leave the Team.
+
+Please download the appropriate Teams app before the first interactive session. There are Apps available for Windows, Linux (Debian/Ubuntu and Redhat), Macs, Android and iOS. Once you have joined the team, whenever I (or someone else) starts a meeting  you will see in the chat that a meeting has started. Please click to join.
+
+The initial timings for the interactive sessions are __Monday, Wednesday, Friday, 8:00 am - 9:00 am__. Since the bulk of the course will be through pre-recorded lectures, after October 15 we may reduce meeting times. The first meeting will be at __8:00 am__ on __Friday, October 2, 2020__.
+
+I would encourage using the Teams chat when it is set up to ask questions whenever needed. We will also meet for interactive sessions.
+
+##### Assignment submissions
+
+Assignments will be posted on this web site and linked in Microsoft Teams. They have to be submitted through Microsoft Teams.
+
+
+##### Alternative chat
+
+I have also set up a [gitter chat](https://gitter.im/siddhartha-gadgil/introduction-algebraic-topology-2020) channel,
 which has the advantage of TeX support and not requiring an IISc account, but needs an account in one of Twitter, Github and GitLab to sign in.
 
-Assignments will be posted here and linked in Microsoft Teams. They have to be submitted through Microsoft Teams.
-
-##### Timings
-
-The official timings are __Monday, Wednesday, Friday, 8:00 am - 9:00 am__. Since the bulk of the course will be through pre-recorded lectures, in practice we may meet for only a subset of the meeting times. The first meeting will be at __8:00 am__ on __Friday, October 2, 2020__ on Microsoft Teams.
 
 #### Examinations
 
