@@ -8,7 +8,7 @@ This course will be taught online, mostly through pre-recorded [lectures](./all-
 
 ##### Microsoft Teams details
 
-A Team for this course (within IISc) named _Introduction to Algebraic Topology 2020-2021_ has been created. A link to join this Team is posted on the IISc intranet (under Department of Mathematics), and people from IISc can also join using the Team code _d0b3gvb_. Please join the Team if you wish to attend interactive sessions. If you choose to leave the course after some lectures you can leave the Team.
+A Team for this course (within IISc) named _Introduction to Algebraic Topology 2020-2021_ has been created. A link to join this Team is posted on the IISc intranet (under Department of Mathematics), and people from IISc can also join using the Team code _d0b3gvb_. Please join the Team if you register for the course or wish to attend interactive sessions. If you choose to leave the course after some lectures you can leave the Team.
 
 Please download the appropriate Teams app before the first interactive session. There are Apps available for Windows, Linux (Debian/Ubuntu and Redhat), Mac, Android and iOS. Once you have joined the team, whenever I (or someone else) starts a meeting  you will see in the chat that a meeting has started. Please click to join.
 
