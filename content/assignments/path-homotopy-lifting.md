@@ -11,4 +11,4 @@ date: 2020-10-26
     3. Each set `$J_i$` is connected.
     4. `$J_{k+1}\cap \bigcup_{i = 1}^k J_i$` is connected for all `$k$`, `$1 < k \leq n$`.
 
-3. Let `$\alpha: [0, 1]\to S^1$` be a path and let `$\widetilde{\alpha'}, \widetilde{\alpha''}: [0, 1]\to \mathbb{R}$` be two lifts of `$\alpha$` with respect to the usual covering map. Then prove or disprove that the function `$\Phi: [0, 1]\to \mathbb{R}$` given by `$\Phi(t) = \widetilde{\alpha'}(t) - \widetilde{\alpha'}(t)$` must be a constant function.
+3. Let `$\alpha: [0, 1]\to S^1$` be a path and let `$\widetilde{\alpha'}, \widetilde{\alpha''}: [0, 1]\to \mathbb{R}$` be two lifts of `$\alpha$` with respect to the usual covering map. Then prove or disprove that the function `$\Phi: [0, 1]\to \mathbb{R}$` given by `$\Phi(t) = \widetilde{\alpha'}(t) - \widetilde{\alpha''}(t)$` must be a constant function.
