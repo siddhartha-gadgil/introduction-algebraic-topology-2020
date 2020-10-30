@@ -8,7 +8,7 @@ date: 2020-10-19
     * __(b)__ Symmetry.
     * __(c)__ Transitivity.
 
-2. Fix a topological space X. Given a homotopy `$H: [0,1]\times [0, 1]\to X$`, we get a function `$\varphi_H$` to the space of functions `$[0, 1]^X = \{f: [0, 1]\to X\}$`
+2. Fix a topological space X. Given a homotopy `$H: [0,1]\times [0, 1]\to X$`, we get a function `$\varphi_H$` to the space of functions `$X^{[0, 1]} = \{f: [0, 1]\to X\}$`
 from the interval to X with the __product topology__ given by `$$\varphi_H(t) = s \mapsto H(s, t).$$` Prove or disprove the following statements.
     * __(a)__ If `$H$` is continuous then `$\varphi_H$` must be continuous.
     * __(b)__ If `$\varphi_H$` is continuous then `$H$` must be continuous.

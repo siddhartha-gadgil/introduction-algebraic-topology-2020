@@ -28,3 +28,10 @@ which has the advantage of TeX support and not requiring an IISc account, but ne
 #### Examinations
 
 Due to the difficulty of online evaluation, there will be 3 term examinations as well as a final examination. These will all be written, followed by an oral section where the student must be able to explain anything in the written proof, well enough to establish to my satisfaction that the student wrote this based on understanding, not by copying. Suspicion of copying will be strongly penalized.
+
+##### Midterm I
+
+* __Date:__ Saturday, November 7, 2020.
+    * __Written Exam:__ 9:00 am to 10:00 am.
+    * __Oral follow-up:__ Short sessions with individual students between 10:00 am and 12 noon.
+* __Syllabus__: Functors; Paths; Homotopy of paths fixing endpoints; Covering spaces; Path lifting and Homotopy lifting; Fundamental group of the circle; Applications (up to Lecture 8).
