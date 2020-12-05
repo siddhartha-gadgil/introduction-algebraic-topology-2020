@@ -1,6 +1,6 @@
 ---
 title: "Graphs and Two-Complexes"
-date: 2020-12-07
+date: 2020-12-14
 ---
 
 1. An edge path of length between distinct vertices `$p$` and `$q$` of a graph `$\Gamma$` is said to be _minimal_ if every edge path between `$p$` and `$q$`   in has length at least k. Prove or disprove the following.

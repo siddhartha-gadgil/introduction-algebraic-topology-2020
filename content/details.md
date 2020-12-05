@@ -25,9 +25,17 @@ Assignments will be posted on this web site and linked in Microsoft Teams. They 
 I have also set up a [gitter chat](https://gitter.im/siddhartha-gadgil/introduction-algebraic-topology-2020) channel,
 which has the advantage of TeX support and not requiring an IISc account, but needs an account in one of Twitter, Github and GitLab to sign in.
 
-#### Examinations
+#### Examinations and Grades
 
 Due to the difficulty of online evaluation, there will be 3 term examinations as well as a final examination. These will all be written, followed by an oral section where the student must be able to explain anything in the written proof, well enough to establish to my satisfaction that the student wrote this based on understanding, not by copying. Suspicion of copying will be strongly penalized.
+
+Grades will be based on the  assignments, midterm examinations and final examinations with the following weightages.
+
+* __Assignments:__ 10%
+* __Midterm 1:__ 15%
+* __Midterm 2:__ 25%
+* __Midterm 3:__ 20%
+* __Final exam:__ 30%
 
 ##### Midterm I
 
@@ -35,3 +43,20 @@ Due to the difficulty of online evaluation, there will be 3 term examinations as
     * __Written Exam:__ 9:00 am to 10:00 am.
     * __Oral follow-up:__ Short sessions with individual students between 10:00 am and 12 noon.
 * __Syllabus__: Functors; Paths; Homotopy of paths fixing endpoints; Covering spaces; Path lifting and Homotopy lifting; Fundamental group of the circle; Applications (up to Lecture 8).
+* __Weightage:__ 15% of the total.
+
+##### Midterm II
+
+* __Date:__ Saturday, November 28, 2020.
+    * __Written Exam:__ 8:00 am to 10:00 am.
+    * __Oral follow-up:__ Short sessions with individual students between 10:00 am and 12 noon.
+* __Syllabus__: The contents up to Lecture 16. Details of the contents of the lectures are on the [lectures page](all-lectures/).
+* __Weightage:__ 25% of the total.
+
+##### Midterm III
+
+* __Date:__ Saturday, January 2, 2021.
+    * __Written Exam:__ 8:00 am to 10:00 am.
+    * __Oral follow-up:__ Short sessions with individual students between 10:00 am and 12 noon.
+* __Syllabus__: The contents up to Lecture 25. Details of the contents of the lectures are on the [lectures page](all-lectures/).
+* __Weightage:__ 20% of the total.

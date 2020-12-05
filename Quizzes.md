@@ -1,9 +1,13 @@
 # Quizzes
 
+## Quiz 23.2
+
+Fix $n\geq 1$, let $D = [0, 1]^n$ and let P = $D\setminus\{(1/2, 1/2, \dots, 1/2)\}$. Then $\pi_n(X, x_0)$ is abelian for all based spaces $(X, x_0)$ if and only if
+
 ## Quiz 27.1
 
 Fix $n\geq 1$ and consider the partially ordered set $$S = \{k\in \mathbb{N}: k\vert n\}$$
-where $k\vert n$ means $k$ divides $n$, with the partial order given by $k\leq n$ if $k\vert n$. Let $X$ be the Poset complex associated to S. Which of the following is true.
+where $k\vert n$ means $k$ divides $n$, with the partial order given by $k\leq m$ if $k\vert m$. Let $X$ be the Poset complex associated to S. Which of the following is true.
 
 ## Quiz 27.2
 
