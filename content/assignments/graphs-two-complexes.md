@@ -15,5 +15,5 @@ date: 2020-12-14
     * __(c)__ `$X$` cannot be simply-connected.
 
 4. Let `$X$` be the topological space obtained byattaching two 2-cells to the circle,
-with the attaching maps `$z\mapsto z^2$` and `$z\mapsto z^2$`, respectively.
+with the attaching maps `$z\mapsto z^2$` and `$z\mapsto z^3$`, respectively.
 Determine the fundamental group of `$X$`.
