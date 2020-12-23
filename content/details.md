@@ -58,5 +58,14 @@ Grades will be based on the  assignments, midterm examinations and final examina
 * __Date:__ Saturday, January 2, 2021.
     * __Written Exam:__ 8:00 am to 10:00 am.
     * __Oral follow-up:__ Short sessions with individual students between 10:00 am and 12 noon.
-* __Syllabus__: The contents up to Lecture 25. Details of the contents of the lectures are on the [lectures page](all-lectures/).
+* __Syllabus__: The contents up to Lecture 25 (excluding Lecture 21). Details of the contents of the lectures are on the [lectures page](all-lectures/).
 * __Weightage:__ 20% of the total.
+
+##### Final Examination
+
+This will be a written examination only, and the schedule is based on the [IISc Schedule](http://math.iisc.ac.in/exam-schedule-jan-2021.html).
+
+* __Date:__ Wednesday, January 20, 2020.
+* __Time:__ 9:00 am to 12 noon (written exam only)
+* __Syllabus__ The contents of all lectures (excluding Lecture 21). Details of the contents of the lectures are on the [lectures page](all-lectures/).
+* __Weightage:__ 30% of the total.
