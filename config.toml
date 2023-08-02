@@ -1,4 +1,4 @@
-baseURL = "htttps://math.iisc.ac.in/~gadgil/introduction-algebraic-topology-2020/"
+baseURL = "https://math.iisc.ac.in/~gadgil/introduction-algebraic-topology-2020/"
 languageCode = "en-us"
 title = "MA 232: Introduction to Algebraic Topology"
 theme = "course"
