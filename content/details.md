@@ -1,6 +1,6 @@
 #### Course Details
   
-* __Instructor:__ [Siddhartha Gadgil](http://math.iisc.ac.in/~gadgil)
+* __Instructor:__ [Siddhartha Gadgil](htttps://math.iisc.ac.in/~gadgil)
 * __E-mail:__ _siddhartha.gadgil@gmail.com_
 * __Teaching Assistant:__ Sumanta Das
 
@@ -63,7 +63,7 @@ Grades will be based on the  assignments, midterm examinations and final examina
 
 ##### Final Examination
 
-This will be a written examination only, and the schedule is based on the [IISc Schedule](http://math.iisc.ac.in/exam-schedule-jan-2021.html).
+This will be a written examination only, and the schedule is based on the [IISc Schedule](htttps://math.iisc.ac.in/exam-schedule-jan-2021.html).
 
 * __Date:__ Wednesday, January 20, 2020.
 * __Time:__ 9:00 am to 12 noon (written exam only)
